@@ -1,0 +1,13 @@
+# Notas internas del proyecto (no son parte de la entrega)
+Agent.md
+MEMORY.md
+
+# Archivos que Python crea solo al ejecutar el programa
+__pycache__/
+*.pyc
+
+# Archivos que crean Windows y los editores de código
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
